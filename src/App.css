@@ -40,7 +40,6 @@
 .fizzbuzz {
   display: flex;
   flex-direction: column;
-  background-color: #282c34;
 }
 
 .title {
@@ -80,6 +79,6 @@
 }
 
 .numberChoice > #counter {
-  width: 60px;
+  width: px;
   margin: 10px auto;
 }
