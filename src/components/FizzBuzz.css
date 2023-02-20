@@ -1,0 +1,13 @@
+span {display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: lightskyblue;
+    font-size: 20px;
+    font-weight: bold;
+    border: transparent;
+    border-radius: 50px 50px 50px 50px;
+}
